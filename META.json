@@ -52,7 +52,7 @@
    "provides" : {
       "Unicode::EastAsianWidth::Detect" : {
          "file" : "lib/Unicode/EastAsianWidth/Detect.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -62,9 +62,9 @@
       },
       "homepage" : "https://github.com/mattn/p5-Unicode-EastAsianWidth-Detect",
       "repository" : {
-         "url" : "https://github.com/mattn/p5-Unicode-EastAsianWidth-Detect.git",
+         "url" : "git://github.com/mattn/p5-Unicode-EastAsianWidth-Detect.git",
          "web" : "https://github.com/mattn/p5-Unicode-EastAsianWidth-Detect"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
